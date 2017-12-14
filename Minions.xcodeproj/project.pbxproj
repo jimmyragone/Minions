@@ -1,0 +1,533 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BF0156891FBE91DE00459DF7 /* kew gardens post office.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF0156881FBE91DE00459DF7 /* kew gardens post office.gpx */; };
+		BF01568B1FBE924000459DF7 /* queens borough public library.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF01568A1FBE924000459DF7 /* queens borough public library.gpx */; };
+		BF01568D1FBE92C000459DF7 /* key food owl.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF01568C1FBE92C000459DF7 /* key food owl.gpx */; };
+		BF01568F1FBE935700459DF7 /* jackies house synagogue.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF01568E1FBE935700459DF7 /* jackies house synagogue.gpx */; };
+		BF0156911FBE93B200459DF7 /* holy family church.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF0156901FBE93B200459DF7 /* holy family church.gpx */; };
+		BF0156931FBE940C00459DF7 /* utopia jewish center.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF0156921FBE940C00459DF7 /* utopia jewish center.gpx */; };
+		BF0156951FBE946A00459DF7 /* cunningham park entrance.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF0156941FBE946A00459DF7 /* cunningham park entrance.gpx */; };
+		BF0156991FBE9F1A00459DF7 /* fresh meadows farm mural baaaah.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF0156981FBE9F1A00459DF7 /* fresh meadows farm mural baaaah.gpx */; };
+		BF01569F1FBF3E4000459DF7 /* shuppet nest forest park.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF01569E1FBF3E4000459DF7 /* shuppet nest forest park.gpx */; };
+		BF2F00A31FB9497500306A96 /* Congregation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF2F00A21FB9497500306A96 /* Congregation.gpx */; };
+		BF2F00A51FB94BF500306A96 /* St Johns Crest.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF2F00A41FB94BF500306A96 /* St Johns Crest.gpx */; };
+		BF34D1911FBB3D9A0090877A /* Francis Lewis:Union Turnpike.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF34D1901FBB3D9A0090877A /* Francis Lewis:Union Turnpike.gpx */; };
+		BF34D1931FBB3F940090877A /* Colorful Geometric Patterns.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF34D1921FBB3F940090877A /* Colorful Geometric Patterns.gpx */; };
+		BF34D1951FBB402C0090877A /* St Nicolas Church.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF34D1941FBB402C0090877A /* St Nicolas Church.gpx */; };
+		BF34D1971FBB40E20090877A /* 73rd Ave and Francis Lewis Blvd.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF34D1961FBB40E20090877A /* 73rd Ave and Francis Lewis Blvd.gpx */; };
+		BF34D1991FBB417B0090877A /* 73rd Ave and Hollis Hills.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF34D1981FBB417B0090877A /* 73rd Ave and Hollis Hills.gpx */; };
+		BF34D19B1FBB42020090877A /* Main Street & 71st Ave - Torath Haim Ohel Sarah.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF34D19A1FBB42020090877A /* Main Street & 71st Ave - Torath Haim Ohel Sarah.gpx */; };
+		BF34D19D1FBB42AF0090877A /* Horace Harding & 174th Street.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF34D19C1FBB42AF0090877A /* Horace Harding & 174th Street.gpx */; };
+		BF4A8FE71FBBD810005EF6A0 /* brooklyn karp.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF4A8FE61FBBD810005EF6A0 /* brooklyn karp.gpx */; };
+		BF624EEE1FBA0B9300602DB9 /* St Johns University Entrance.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF624EED1FBA0B9300602DB9 /* St Johns University Entrance.gpx */; };
+		BF624EF01FBA0C6F00602DB9 /* Flag Pole 164th Street.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF624EEF1FBA0C6F00602DB9 /* Flag Pole 164th Street.gpx */; };
+		BF624EF21FBA0FC800602DB9 /* Flatiron Building.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF624EF11FBA0FC800602DB9 /* Flatiron Building.gpx */; };
+		BF624EF41FBA1ADF00602DB9 /* You Go Girl 2010 Mural South St Seaport.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF624EF31FBA1ADF00602DB9 /* You Go Girl 2010 Mural South St Seaport.gpx */; };
+		BF624EF61FBA24F300602DB9 /* Starbucks - Stone Street.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF624EF51FBA24F300602DB9 /* Starbucks - Stone Street.gpx */; };
+		BF6DDAA31FE04F8100121CC3 /* grand central clock 4 stops.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF6DDAA21FE04F8100121CC3 /* grand central clock 4 stops.gpx */; };
+		BF6DDAA51FE04F9E00121CC3 /* pokemon.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF6DDAA41FE04F9E00121CC3 /* pokemon.gpx */; };
+		BF7866161FD9001E00C8630B /* Cheese Place by Bagel on Run.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF7866151FD9001E00C8630B /* Cheese Place by Bagel on Run.gpx */; };
+		BF82264B1FBA6356006F21AE /* Bryant Park Lures.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF82264A1FBA6356006F21AE /* Bryant Park Lures.gpx */; };
+		BF8C6B811FB93FB000A4CAF4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8C6B801FB93FB000A4CAF4 /* AppDelegate.swift */; };
+		BF8C6B831FB93FB000A4CAF4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8C6B821FB93FB000A4CAF4 /* ViewController.swift */; };
+		BF8C6B861FB93FB100A4CAF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF8C6B841FB93FB100A4CAF4 /* Main.storyboard */; };
+		BF8C6B881FB93FB100A4CAF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF8C6B871FB93FB100A4CAF4 /* Assets.xcassets */; };
+		BF8C6B8B1FB93FB100A4CAF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF8C6B891FB93FB100A4CAF4 /* LaunchScreen.storyboard */; };
+		BF8C6B931FB9427800A4CAF4 /* Layla Hookah Lounge.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF8C6B921FB9427800A4CAF4 /* Layla Hookah Lounge.gpx */; };
+		BF973A691FBE0F9C00644DC6 /* bryant park new.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BF973A681FBE0F9C00644DC6 /* bryant park new.gpx */; };
+		BFA54F441FBC0AD200A74D14 /* 188th Horace Harding.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFA54F431FBC0AD200A74D14 /* 188th Horace Harding.gpx */; };
+		BFA54F461FBC0B6600A74D14 /* Horace Harding 185th.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFA54F451FBC0B6600A74D14 /* Horace Harding 185th.gpx */; };
+		BFBA0BE61FBCC6B0007C2EEA /* Bryant Park Stroll.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFBA0BE51FBCC6B0007C2EEA /* Bryant Park Stroll.gpx */; };
+		BFE7CB031FC645690091C268 /* Welcome to Greenpoint.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB021FC645690091C268 /* Welcome to Greenpoint.gpx */; };
+		BFE7CB051FC7EA610091C268 /* St Anthonys Church.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB041FC7EA610091C268 /* St Anthonys Church.gpx */; };
+		BFE7CB071FC7EAFC0091C268 /* Greenpoint Savings Bank.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB061FC7EAFC0091C268 /* Greenpoint Savings Bank.gpx */; };
+		BFE7CB091FC7EB520091C268 /* Greenpoint Starbucks.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB081FC7EB520091C268 /* Greenpoint Starbucks.gpx */; };
+		BFE7CB0B1FC7EBC80091C268 /* Father Jerzey Popieluszko.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB0A1FC7EBC80091C268 /* Father Jerzey Popieluszko.gpx */; };
+		BFE7CB0D1FC7EC490091C268 /* Jimmys Diner Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB0C1FC7EC490091C268 /* Jimmys Diner Gym.gpx */; };
+		BFE7CB0F1FC7ECB30091C268 /* Turkeys Nest Gym.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB0E1FC7ECB30091C268 /* Turkeys Nest Gym.gpx */; };
+		BFE7CB111FC7ED0A0091C268 /* McCarren Hotel and Pool.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB101FC7ED0A0091C268 /* McCarren Hotel and Pool.gpx */; };
+		BFE7CB131FC7ED5C0091C268 /* Dunkin Donuts Mural Bedford Ave.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB121FC7ED5C0091C268 /* Dunkin Donuts Mural Bedford Ave.gpx */; };
+		BFE7CB151FC7EDC90091C268 /* Wallabout Street Congregation Yetev Lev Satmar.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB141FC7EDC90091C268 /* Wallabout Street Congregation Yetev Lev Satmar.gpx */; };
+		BFE7CB171FC7EE1E0091C268 /* Marcy Flushing Ave Station.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB161FC7EE1E0091C268 /* Marcy Flushing Ave Station.gpx */; };
+		BFE7CB191FC7EFF70091C268 /* House of Yesho Jewish Synagogue.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB181FC7EFF70091C268 /* House of Yesho Jewish Synagogue.gpx */; };
+		BFE7CB1B1FC7F08B0091C268 /* Williamsburg Armory.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB1A1FC7F08B0091C268 /* Williamsburg Armory.gpx */; };
+		BFE7CB1D1FC7F59A0091C268 /* Brooklyn Love Mural Tennis Courts.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB1C1FC7F59A0091C268 /* Brooklyn Love Mural Tennis Courts.gpx */; };
+		BFE7CB1F1FC7F7110091C268 /* Father 3 Gyms.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB1E1FC7F7110091C268 /* Father 3 Gyms.gpx */; };
+		BFE7CB211FC7F8130091C268 /* Greenpoint Ave Clock.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFE7CB201FC7F8130091C268 /* Greenpoint Ave Clock.gpx */; };
+		BFFDB6041FD506E60053F7F2 /* Bagel on The Run.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFFDB6031FD506E60053F7F2 /* Bagel on The Run.gpx */; };
+		BFFDB6061FD65DE10053F7F2 /* Manhattan Ave Sprint Store.gpx in Resources */ = {isa = PBXBuildFile; fileRef = BFFDB6051FD65DE10053F7F2 /* Manhattan Ave Sprint Store.gpx */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BF0156881FBE91DE00459DF7 /* kew gardens post office.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "kew gardens post office.gpx"; sourceTree = "<group>"; };
+		BF01568A1FBE924000459DF7 /* queens borough public library.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "queens borough public library.gpx"; sourceTree = "<group>"; };
+		BF01568C1FBE92C000459DF7 /* key food owl.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "key food owl.gpx"; sourceTree = "<group>"; };
+		BF01568E1FBE935700459DF7 /* jackies house synagogue.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "jackies house synagogue.gpx"; sourceTree = "<group>"; };
+		BF0156901FBE93B200459DF7 /* holy family church.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "holy family church.gpx"; sourceTree = "<group>"; };
+		BF0156921FBE940C00459DF7 /* utopia jewish center.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "utopia jewish center.gpx"; sourceTree = "<group>"; };
+		BF0156941FBE946A00459DF7 /* cunningham park entrance.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "cunningham park entrance.gpx"; sourceTree = "<group>"; };
+		BF0156981FBE9F1A00459DF7 /* fresh meadows farm mural baaaah.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "fresh meadows farm mural baaaah.gpx"; sourceTree = "<group>"; };
+		BF01569E1FBF3E4000459DF7 /* shuppet nest forest park.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "shuppet nest forest park.gpx"; sourceTree = "<group>"; };
+		BF2F00A21FB9497500306A96 /* Congregation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Congregation.gpx; sourceTree = "<group>"; };
+		BF2F00A41FB94BF500306A96 /* St Johns Crest.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "St Johns Crest.gpx"; sourceTree = "<group>"; };
+		BF34D1901FBB3D9A0090877A /* Francis Lewis:Union Turnpike.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Francis Lewis:Union Turnpike.gpx"; sourceTree = "<group>"; };
+		BF34D1921FBB3F940090877A /* Colorful Geometric Patterns.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Colorful Geometric Patterns.gpx"; sourceTree = "<group>"; };
+		BF34D1941FBB402C0090877A /* St Nicolas Church.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "St Nicolas Church.gpx"; sourceTree = "<group>"; };
+		BF34D1961FBB40E20090877A /* 73rd Ave and Francis Lewis Blvd.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "73rd Ave and Francis Lewis Blvd.gpx"; sourceTree = "<group>"; };
+		BF34D1981FBB417B0090877A /* 73rd Ave and Hollis Hills.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "73rd Ave and Hollis Hills.gpx"; sourceTree = "<group>"; };
+		BF34D19A1FBB42020090877A /* Main Street & 71st Ave - Torath Haim Ohel Sarah.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Main Street & 71st Ave - Torath Haim Ohel Sarah.gpx"; sourceTree = "<group>"; };
+		BF34D19C1FBB42AF0090877A /* Horace Harding & 174th Street.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Horace Harding & 174th Street.gpx"; sourceTree = "<group>"; };
+		BF4A8FE61FBBD810005EF6A0 /* brooklyn karp.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "brooklyn karp.gpx"; sourceTree = "<group>"; };
+		BF624EED1FBA0B9300602DB9 /* St Johns University Entrance.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "St Johns University Entrance.gpx"; sourceTree = "<group>"; };
+		BF624EEF1FBA0C6F00602DB9 /* Flag Pole 164th Street.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Flag Pole 164th Street.gpx"; sourceTree = "<group>"; };
+		BF624EF11FBA0FC800602DB9 /* Flatiron Building.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Flatiron Building.gpx"; sourceTree = "<group>"; };
+		BF624EF31FBA1ADF00602DB9 /* You Go Girl 2010 Mural South St Seaport.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "You Go Girl 2010 Mural South St Seaport.gpx"; sourceTree = "<group>"; };
+		BF624EF51FBA24F300602DB9 /* Starbucks - Stone Street.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Starbucks - Stone Street.gpx"; sourceTree = "<group>"; };
+		BF6DDAA21FE04F8100121CC3 /* grand central clock 4 stops.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "grand central clock 4 stops.gpx"; sourceTree = "<group>"; };
+		BF6DDAA41FE04F9E00121CC3 /* pokemon.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = pokemon.gpx; sourceTree = "<group>"; };
+		BF7866151FD9001E00C8630B /* Cheese Place by Bagel on Run.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Cheese Place by Bagel on Run.gpx"; sourceTree = "<group>"; };
+		BF82264A1FBA6356006F21AE /* Bryant Park Lures.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Bryant Park Lures.gpx"; sourceTree = "<group>"; };
+		BF8C6B7D1FB93FB000A4CAF4 /* Minions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Minions.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF8C6B801FB93FB000A4CAF4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BF8C6B821FB93FB000A4CAF4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BF8C6B851FB93FB100A4CAF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BF8C6B871FB93FB100A4CAF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BF8C6B8A1FB93FB100A4CAF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BF8C6B8C1FB93FB100A4CAF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF8C6B921FB9427800A4CAF4 /* Layla Hookah Lounge.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Layla Hookah Lounge.gpx"; sourceTree = "<group>"; };
+		BF973A681FBE0F9C00644DC6 /* bryant park new.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "bryant park new.gpx"; sourceTree = "<group>"; };
+		BFA54F431FBC0AD200A74D14 /* 188th Horace Harding.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "188th Horace Harding.gpx"; sourceTree = "<group>"; };
+		BFA54F451FBC0B6600A74D14 /* Horace Harding 185th.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Horace Harding 185th.gpx"; sourceTree = "<group>"; };
+		BFBA0BE51FBCC6B0007C2EEA /* Bryant Park Stroll.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Bryant Park Stroll.gpx"; sourceTree = "<group>"; };
+		BFE7CB021FC645690091C268 /* Welcome to Greenpoint.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Welcome to Greenpoint.gpx"; sourceTree = "<group>"; };
+		BFE7CB041FC7EA610091C268 /* St Anthonys Church.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "St Anthonys Church.gpx"; sourceTree = "<group>"; };
+		BFE7CB061FC7EAFC0091C268 /* Greenpoint Savings Bank.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Greenpoint Savings Bank.gpx"; sourceTree = "<group>"; };
+		BFE7CB081FC7EB520091C268 /* Greenpoint Starbucks.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Greenpoint Starbucks.gpx"; sourceTree = "<group>"; };
+		BFE7CB0A1FC7EBC80091C268 /* Father Jerzey Popieluszko.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Father Jerzey Popieluszko.gpx"; sourceTree = "<group>"; };
+		BFE7CB0C1FC7EC490091C268 /* Jimmys Diner Gym.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Jimmys Diner Gym.gpx"; sourceTree = "<group>"; };
+		BFE7CB0E1FC7ECB30091C268 /* Turkeys Nest Gym.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Turkeys Nest Gym.gpx"; sourceTree = "<group>"; };
+		BFE7CB101FC7ED0A0091C268 /* McCarren Hotel and Pool.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "McCarren Hotel and Pool.gpx"; sourceTree = "<group>"; };
+		BFE7CB121FC7ED5C0091C268 /* Dunkin Donuts Mural Bedford Ave.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Dunkin Donuts Mural Bedford Ave.gpx"; sourceTree = "<group>"; };
+		BFE7CB141FC7EDC90091C268 /* Wallabout Street Congregation Yetev Lev Satmar.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Wallabout Street Congregation Yetev Lev Satmar.gpx"; sourceTree = "<group>"; };
+		BFE7CB161FC7EE1E0091C268 /* Marcy Flushing Ave Station.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Marcy Flushing Ave Station.gpx"; sourceTree = "<group>"; };
+		BFE7CB181FC7EFF70091C268 /* House of Yesho Jewish Synagogue.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "House of Yesho Jewish Synagogue.gpx"; sourceTree = "<group>"; };
+		BFE7CB1A1FC7F08B0091C268 /* Williamsburg Armory.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Williamsburg Armory.gpx"; sourceTree = "<group>"; };
+		BFE7CB1C1FC7F59A0091C268 /* Brooklyn Love Mural Tennis Courts.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Brooklyn Love Mural Tennis Courts.gpx"; sourceTree = "<group>"; };
+		BFE7CB1E1FC7F7110091C268 /* Father 3 Gyms.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Father 3 Gyms.gpx"; sourceTree = "<group>"; };
+		BFE7CB201FC7F8130091C268 /* Greenpoint Ave Clock.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Greenpoint Ave Clock.gpx"; sourceTree = "<group>"; };
+		BFFDB6031FD506E60053F7F2 /* Bagel on The Run.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Bagel on The Run.gpx"; sourceTree = "<group>"; };
+		BFFDB6051FD65DE10053F7F2 /* Manhattan Ave Sprint Store.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Manhattan Ave Sprint Store.gpx"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BF8C6B7A1FB93FB000A4CAF4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BF8C6B741FB93FB000A4CAF4 = {
+			isa = PBXGroup;
+			children = (
+				BF6DDAA21FE04F8100121CC3 /* grand central clock 4 stops.gpx */,
+				BF6DDAA41FE04F9E00121CC3 /* pokemon.gpx */,
+				BF7866151FD9001E00C8630B /* Cheese Place by Bagel on Run.gpx */,
+				BFE7CB021FC645690091C268 /* Welcome to Greenpoint.gpx */,
+				BFE7CB041FC7EA610091C268 /* St Anthonys Church.gpx */,
+				BFE7CB061FC7EAFC0091C268 /* Greenpoint Savings Bank.gpx */,
+				BFE7CB081FC7EB520091C268 /* Greenpoint Starbucks.gpx */,
+				BFE7CB0A1FC7EBC80091C268 /* Father Jerzey Popieluszko.gpx */,
+				BFE7CB0C1FC7EC490091C268 /* Jimmys Diner Gym.gpx */,
+				BFE7CB0E1FC7ECB30091C268 /* Turkeys Nest Gym.gpx */,
+				BFE7CB101FC7ED0A0091C268 /* McCarren Hotel and Pool.gpx */,
+				BFE7CB121FC7ED5C0091C268 /* Dunkin Donuts Mural Bedford Ave.gpx */,
+				BFE7CB141FC7EDC90091C268 /* Wallabout Street Congregation Yetev Lev Satmar.gpx */,
+				BFE7CB161FC7EE1E0091C268 /* Marcy Flushing Ave Station.gpx */,
+				BFE7CB181FC7EFF70091C268 /* House of Yesho Jewish Synagogue.gpx */,
+				BFE7CB1A1FC7F08B0091C268 /* Williamsburg Armory.gpx */,
+				BFE7CB1C1FC7F59A0091C268 /* Brooklyn Love Mural Tennis Courts.gpx */,
+				BFE7CB1E1FC7F7110091C268 /* Father 3 Gyms.gpx */,
+				BFE7CB201FC7F8130091C268 /* Greenpoint Ave Clock.gpx */,
+				BFFDB6051FD65DE10053F7F2 /* Manhattan Ave Sprint Store.gpx */,
+				BFFDB6031FD506E60053F7F2 /* Bagel on The Run.gpx */,
+				BF0156981FBE9F1A00459DF7 /* fresh meadows farm mural baaaah.gpx */,
+				BFA54F431FBC0AD200A74D14 /* 188th Horace Harding.gpx */,
+				BFA54F451FBC0B6600A74D14 /* Horace Harding 185th.gpx */,
+				BF4A8FE61FBBD810005EF6A0 /* brooklyn karp.gpx */,
+				BF34D1901FBB3D9A0090877A /* Francis Lewis:Union Turnpike.gpx */,
+				BF34D1921FBB3F940090877A /* Colorful Geometric Patterns.gpx */,
+				BF34D1941FBB402C0090877A /* St Nicolas Church.gpx */,
+				BF34D1961FBB40E20090877A /* 73rd Ave and Francis Lewis Blvd.gpx */,
+				BF01569E1FBF3E4000459DF7 /* shuppet nest forest park.gpx */,
+				BF34D1981FBB417B0090877A /* 73rd Ave and Hollis Hills.gpx */,
+				BF34D19A1FBB42020090877A /* Main Street & 71st Ave - Torath Haim Ohel Sarah.gpx */,
+				BF34D19C1FBB42AF0090877A /* Horace Harding & 174th Street.gpx */,
+				BF82264A1FBA6356006F21AE /* Bryant Park Lures.gpx */,
+				BFBA0BE51FBCC6B0007C2EEA /* Bryant Park Stroll.gpx */,
+				BF973A681FBE0F9C00644DC6 /* bryant park new.gpx */,
+				BF0156881FBE91DE00459DF7 /* kew gardens post office.gpx */,
+				BF01568A1FBE924000459DF7 /* queens borough public library.gpx */,
+				BF01568C1FBE92C000459DF7 /* key food owl.gpx */,
+				BF01568E1FBE935700459DF7 /* jackies house synagogue.gpx */,
+				BF0156901FBE93B200459DF7 /* holy family church.gpx */,
+				BF0156921FBE940C00459DF7 /* utopia jewish center.gpx */,
+				BF0156941FBE946A00459DF7 /* cunningham park entrance.gpx */,
+				BF624EED1FBA0B9300602DB9 /* St Johns University Entrance.gpx */,
+				BF624EEF1FBA0C6F00602DB9 /* Flag Pole 164th Street.gpx */,
+				BF624EF11FBA0FC800602DB9 /* Flatiron Building.gpx */,
+				BF624EF51FBA24F300602DB9 /* Starbucks - Stone Street.gpx */,
+				BF624EF31FBA1ADF00602DB9 /* You Go Girl 2010 Mural South St Seaport.gpx */,
+				BF8C6B921FB9427800A4CAF4 /* Layla Hookah Lounge.gpx */,
+				BF2F00A21FB9497500306A96 /* Congregation.gpx */,
+				BF2F00A41FB94BF500306A96 /* St Johns Crest.gpx */,
+				BF8C6B7F1FB93FB000A4CAF4 /* Location Spoofer */,
+				BF8C6B7E1FB93FB000A4CAF4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BF8C6B7E1FB93FB000A4CAF4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BF8C6B7D1FB93FB000A4CAF4 /* Minions.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BF8C6B7F1FB93FB000A4CAF4 /* Location Spoofer */ = {
+			isa = PBXGroup;
+			children = (
+				BF8C6B801FB93FB000A4CAF4 /* AppDelegate.swift */,
+				BF8C6B821FB93FB000A4CAF4 /* ViewController.swift */,
+				BF8C6B841FB93FB100A4CAF4 /* Main.storyboard */,
+				BF8C6B871FB93FB100A4CAF4 /* Assets.xcassets */,
+				BF8C6B891FB93FB100A4CAF4 /* LaunchScreen.storyboard */,
+				BF8C6B8C1FB93FB100A4CAF4 /* Info.plist */,
+			);
+			path = "Location Spoofer";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BF8C6B7C1FB93FB000A4CAF4 /* Minions */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF8C6B8F1FB93FB100A4CAF4 /* Build configuration list for PBXNativeTarget "Minions" */;
+			buildPhases = (
+				BF8C6B791FB93FB000A4CAF4 /* Sources */,
+				BF8C6B7A1FB93FB000A4CAF4 /* Frameworks */,
+				BF8C6B7B1FB93FB000A4CAF4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Minions;
+			productName = "Location Spoofer";
+			productReference = BF8C6B7D1FB93FB000A4CAF4 /* Minions.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BF8C6B751FB93FB000A4CAF4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0910;
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = "Jimmy Ragone";
+				TargetAttributes = {
+					BF8C6B7C1FB93FB000A4CAF4 = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = BF8C6B781FB93FB000A4CAF4 /* Build configuration list for PBXProject "Minions" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BF8C6B741FB93FB000A4CAF4;
+			productRefGroup = BF8C6B7E1FB93FB000A4CAF4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BF8C6B7C1FB93FB000A4CAF4 /* Minions */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BF8C6B7B1FB93FB000A4CAF4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BFFDB6061FD65DE10053F7F2 /* Manhattan Ave Sprint Store.gpx in Resources */,
+				BFBA0BE61FBCC6B0007C2EEA /* Bryant Park Stroll.gpx in Resources */,
+				BFE7CB111FC7ED0A0091C268 /* McCarren Hotel and Pool.gpx in Resources */,
+				BFA54F461FBC0B6600A74D14 /* Horace Harding 185th.gpx in Resources */,
+				BF8C6B8B1FB93FB100A4CAF4 /* LaunchScreen.storyboard in Resources */,
+				BF01568B1FBE924000459DF7 /* queens borough public library.gpx in Resources */,
+				BF624EF21FBA0FC800602DB9 /* Flatiron Building.gpx in Resources */,
+				BF6DDAA51FE04F9E00121CC3 /* pokemon.gpx in Resources */,
+				BFE7CB151FC7EDC90091C268 /* Wallabout Street Congregation Yetev Lev Satmar.gpx in Resources */,
+				BF01569F1FBF3E4000459DF7 /* shuppet nest forest park.gpx in Resources */,
+				BFFDB6041FD506E60053F7F2 /* Bagel on The Run.gpx in Resources */,
+				BFE7CB1B1FC7F08B0091C268 /* Williamsburg Armory.gpx in Resources */,
+				BFE7CB0B1FC7EBC80091C268 /* Father Jerzey Popieluszko.gpx in Resources */,
+				BF0156891FBE91DE00459DF7 /* kew gardens post office.gpx in Resources */,
+				BF34D1931FBB3F940090877A /* Colorful Geometric Patterns.gpx in Resources */,
+				BF624EEE1FBA0B9300602DB9 /* St Johns University Entrance.gpx in Resources */,
+				BFE7CB051FC7EA610091C268 /* St Anthonys Church.gpx in Resources */,
+				BF34D1991FBB417B0090877A /* 73rd Ave and Hollis Hills.gpx in Resources */,
+				BF34D1951FBB402C0090877A /* St Nicolas Church.gpx in Resources */,
+				BF34D19B1FBB42020090877A /* Main Street & 71st Ave - Torath Haim Ohel Sarah.gpx in Resources */,
+				BFE7CB1D1FC7F59A0091C268 /* Brooklyn Love Mural Tennis Courts.gpx in Resources */,
+				BF0156911FBE93B200459DF7 /* holy family church.gpx in Resources */,
+				BF82264B1FBA6356006F21AE /* Bryant Park Lures.gpx in Resources */,
+				BFE7CB031FC645690091C268 /* Welcome to Greenpoint.gpx in Resources */,
+				BF973A691FBE0F9C00644DC6 /* bryant park new.gpx in Resources */,
+				BF2F00A51FB94BF500306A96 /* St Johns Crest.gpx in Resources */,
+				BF8C6B881FB93FB100A4CAF4 /* Assets.xcassets in Resources */,
+				BF624EF41FBA1ADF00602DB9 /* You Go Girl 2010 Mural South St Seaport.gpx in Resources */,
+				BF0156931FBE940C00459DF7 /* utopia jewish center.gpx in Resources */,
+				BFA54F441FBC0AD200A74D14 /* 188th Horace Harding.gpx in Resources */,
+				BFE7CB171FC7EE1E0091C268 /* Marcy Flushing Ave Station.gpx in Resources */,
+				BFE7CB0F1FC7ECB30091C268 /* Turkeys Nest Gym.gpx in Resources */,
+				BF0156991FBE9F1A00459DF7 /* fresh meadows farm mural baaaah.gpx in Resources */,
+				BFE7CB211FC7F8130091C268 /* Greenpoint Ave Clock.gpx in Resources */,
+				BF4A8FE71FBBD810005EF6A0 /* brooklyn karp.gpx in Resources */,
+				BFE7CB091FC7EB520091C268 /* Greenpoint Starbucks.gpx in Resources */,
+				BF34D1971FBB40E20090877A /* 73rd Ave and Francis Lewis Blvd.gpx in Resources */,
+				BF01568D1FBE92C000459DF7 /* key food owl.gpx in Resources */,
+				BF2F00A31FB9497500306A96 /* Congregation.gpx in Resources */,
+				BF34D1911FBB3D9A0090877A /* Francis Lewis:Union Turnpike.gpx in Resources */,
+				BF8C6B861FB93FB100A4CAF4 /* Main.storyboard in Resources */,
+				BF6DDAA31FE04F8100121CC3 /* grand central clock 4 stops.gpx in Resources */,
+				BFE7CB131FC7ED5C0091C268 /* Dunkin Donuts Mural Bedford Ave.gpx in Resources */,
+				BF01568F1FBE935700459DF7 /* jackies house synagogue.gpx in Resources */,
+				BF34D19D1FBB42AF0090877A /* Horace Harding & 174th Street.gpx in Resources */,
+				BFE7CB191FC7EFF70091C268 /* House of Yesho Jewish Synagogue.gpx in Resources */,
+				BF7866161FD9001E00C8630B /* Cheese Place by Bagel on Run.gpx in Resources */,
+				BF0156951FBE946A00459DF7 /* cunningham park entrance.gpx in Resources */,
+				BF8C6B931FB9427800A4CAF4 /* Layla Hookah Lounge.gpx in Resources */,
+				BFE7CB1F1FC7F7110091C268 /* Father 3 Gyms.gpx in Resources */,
+				BF624EF01FBA0C6F00602DB9 /* Flag Pole 164th Street.gpx in Resources */,
+				BFE7CB0D1FC7EC490091C268 /* Jimmys Diner Gym.gpx in Resources */,
+				BFE7CB071FC7EAFC0091C268 /* Greenpoint Savings Bank.gpx in Resources */,
+				BF624EF61FBA24F300602DB9 /* Starbucks - Stone Street.gpx in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BF8C6B791FB93FB000A4CAF4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BF8C6B831FB93FB000A4CAF4 /* ViewController.swift in Sources */,
+				BF8C6B811FB93FB000A4CAF4 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		BF8C6B841FB93FB100A4CAF4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BF8C6B851FB93FB100A4CAF4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		BF8C6B891FB93FB100A4CAF4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BF8C6B8A1FB93FB100A4CAF4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BF8C6B8D1FB93FB100A4CAF4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BF8C6B8E1FB93FB100A4CAF4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BF8C6B901FB93FB100A4CAF4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C2S2LQE4LM;
+				INFOPLIST_FILE = "Location Spoofer/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jimmyragone.Minions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BF8C6B911FB93FB100A4CAF4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C2S2LQE4LM;
+				INFOPLIST_FILE = "Location Spoofer/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jimmyragone.Minions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BF8C6B781FB93FB000A4CAF4 /* Build configuration list for PBXProject "Minions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF8C6B8D1FB93FB100A4CAF4 /* Debug */,
+				BF8C6B8E1FB93FB100A4CAF4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF8C6B8F1FB93FB100A4CAF4 /* Build configuration list for PBXNativeTarget "Minions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BF8C6B901FB93FB100A4CAF4 /* Debug */,
+				BF8C6B911FB93FB100A4CAF4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BF8C6B751FB93FB000A4CAF4 /* Project object */;
+}
